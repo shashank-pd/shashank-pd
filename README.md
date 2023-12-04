@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <a href="#" onclick='window.open("https://www.instagram.com/shashank.060");return false;'></a>
+  <a href="#" onclick='window.open("https://www.instagram.com/shashank.060");return false;'>
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:shashankpd2606@gmail.com" target="_blank">
