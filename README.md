@@ -1,14 +1,33 @@
-<h1 align="center" style="zoom: 0.85"> Hey there, I'm Shashank Prasad!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
+<h1 align="center">Hey there, I'm Shashank Prasad! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 </h1>
-<h3 align="center"> Web Developer | Problem Solver </h3>
-<div align="center" style="zoom: 0.85">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-pd/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashankpd2606@gmail.com)
+<h3 align="center">Web Developer | Problem Solver</h3>
 
-🚀 _Always learning, building, and growing!_ 🔥🔥
+<p>
+<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
-</div>
+<br>
+ 🚀 <i>Always learning, building, and growing!</i> 🔥🔥
+ 
+  <br>
+  <br>
+  
+<a href="https://www.linkedin.com/in/shashank-pd/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:shashankpd2606@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+</a>
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=shashank-pd&style=flat&color=blue"/>
+</p>
 
 ---
 
@@ -66,6 +85,11 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-pd&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
     </td>
   </tr>
+<!--   <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashank-pd&theme=react-dark&hide_border=true&area=true"/>
+    </td>
+  </tr> -->
 </table>
 </div>
 
