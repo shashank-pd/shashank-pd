@@ -1,35 +1,22 @@
-<h1 align="center">Hey there, I'm Shashank Prasad! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+<h1 align="center">
+  Hey there, I'm Shashank Prasad! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 
-<h3 align="center">Web Developer | Problem Solver</h3>
+<h3 align="center">Web Developer | Problem Solver | Lifelong Learner</h3>
 
-<p>
-<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966"/>
-
-<br>
- 🚀 <i>Always learning, building, and growing!</i> 🔥🔥
- 
-  <br>
-  <br>
-  
-<a href="https://www.linkedin.com/in/shashank-pd/">
+<p align="center">
+  <a href="https://www.linkedin.com/in/shashank-pd/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:shashankpd2606@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
-</a>
-  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=shashank-pd&style=flat&color=blue"/>
+  </a>
+  <a href="mailto:shashankpd2606@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=shashank-pd&style=flat&color=blue"/>
 </p>
 
 ---
+
+<img align="right" src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" width="400"/>
 
 ## <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="50" /> Tech Stack
 <div align="center" style="zoom: 0.85">
@@ -50,7 +37,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) 
 
 
-
 ### ⚙️ Backend & Databases
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
@@ -68,54 +54,30 @@
 </table>
 </div>
 
----
-
-## 📊 GitHub Stats:
-<div align="center" style="zoom: 0.85">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=shashank-pd&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-pd&theme=chartreuse-dark&hide_border=false"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-pd&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-    </td>
-  </tr>
-<!--   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashank-pd&theme=react-dark&hide_border=true&area=true"/>
-    </td>
-  </tr> -->
-</table>
-</div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Stats
 
-  <div align="center" style="zoom: 0.85">
-    <h4>🌟 My GitHub Trophies</h4>
-    <picture>
-      <source
-        srcset="https://github-profile-trophy.vercel.app/?username=shashank-pd&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-profile-trophy.vercel.app/?username=shashank-pd&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-profile-trophy.vercel.app/?username=shashank-pd&theme=onestar&no-frame=true&column=4" />
-    </picture>
-  </div>
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashank-pd&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-pd&theme=chartreuse-dark&hide_border=false" height="180"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-pd&theme=chartreuse-dark&hide_border=false&layout=compact"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shashank-pd&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" />
+</p>
+
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
+
+
