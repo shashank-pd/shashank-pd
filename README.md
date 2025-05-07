@@ -55,27 +55,52 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
+<div align="center" style="zoom: 0.85">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashank-pd&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-pd&theme=chartreuse-dark&hide_border=false" height="180"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-pd&theme=chartreuse-dark&hide_border=false&layout=compact"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=shashank-pd&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-pd&theme=chartreuse-dark&hide_border=false"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-pd&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    </td>
+  </tr>
+<!--   <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashank-pd&theme=react-dark&hide_border=true&area=true"/>
+    </td>
+  </tr> -->
+</table>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shashank-pd&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" />
-</p>
-
+  <div align="center" style="zoom: 0.85">
+    <h4>🌟 My GitHub Trophies</h4>
+    <picture>
+      <source
+        srcset="https://github-profile-trophy.vercel.app/?username=shashank-pd&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-profile-trophy.vercel.app/?username=shashank-pd&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-profile-trophy.vercel.app/?username=shashank-pd&theme=onestar&no-frame=true&column=4" />
+    </picture>
+  </div>
+  
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
-
-
